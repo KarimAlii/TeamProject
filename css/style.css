@@ -183,11 +183,11 @@ filter: grayscale(100%);
 .contact-us form .form-control::placeholder
 {
     color: var(--white);
-  }
-  .contact-us .final a{
-      color: var(--white);
-      border: 1px solid var(--white);
-  }
+}
+.contact-us .final a{
+    color: var(--white);
+    border: 1px solid var(--white);
+}
 .contact-us .final a:hover{
     
         background-color: var(--main-color);
